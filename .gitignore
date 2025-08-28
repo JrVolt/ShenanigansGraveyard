@@ -1,3 +1,4 @@
 .gitignore
 PhotoOffload/PhotoMoverAlpha.py
 PhotoOffload/PhotoMoverBeta.py
+PhotoOffload/DiscOffload.py
